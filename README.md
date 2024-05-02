@@ -3,10 +3,6 @@
   <h1 align="center"><b>Hello there, I'm JUNIAR 👋👋👋</b></h1>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/juniarikiwm6lo" />
-</p>
-
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -17,7 +13,7 @@
 - 👯 I’m collaborating with other Developers :wink:
 - 🥅 2023 Goals: learn more languages
 - 💬 Ask me about anything, I won't answer :smile:
-- 📬 How to reach me: Rᴬ឵ᴺᴷᵀ឵ᵂ#6666 - but please don't
+- 📬 How to reach me: you can't
 - ⚡ Fun fact: I love coding :raised_hands:
 
 <br>
